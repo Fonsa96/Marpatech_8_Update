@@ -1,0 +1,15 @@
+# Visual Studio
+.vs/
+*.vsidx
+*.suo
+*.user
+
+# Build
+bin/
+obj/
+
+# Rider
+.idea/
+
+# Logs
+*.log
