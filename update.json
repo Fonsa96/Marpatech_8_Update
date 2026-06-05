@@ -1,7 +1,7 @@
 {
-  "Version": "1.0.13",
-  "DownloadUrl": "https://github.com/Fonsa96/Marpatech_8_Update/raw/main/Marpatech_8_v1.0.13.zip",
-  "ZipFileName": "Marpatech_8_v1.0.13.zip",
+  "Version": "1.0.14",
+  "DownloadUrl": "https://github.com/Fonsa96/Marpatech_8_Update/raw/main/Marpatech_8_v1.0.14.zip",
+  "ZipFileName": "Marpatech_8_v1.0.14.zip",
   "Mandatory": false,
-  "ReleaseNotes": "aggiunta ricerca in funzione mail"
+  "ReleaseNotes": "sistemato bugbarra di ricerca"
 }
