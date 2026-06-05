@@ -1,7 +1,7 @@
 {
-  "Version": "1.0.14",
-  "DownloadUrl": "https://github.com/Fonsa96/Marpatech_8_Update/raw/main/Marpatech_8_v1.0.14.zip",
-  "ZipFileName": "Marpatech_8_v1.0.14.zip",
+  "Version": "1.0.15",
+  "DownloadUrl": "https://github.com/Fonsa96/Marpatech_8_Update/raw/main/Marpatech_8_v1.0.15.zip",
+  "ZipFileName": "Marpatech_8_v1.0.15.zip",
   "Mandatory": false,
-  "ReleaseNotes": "sistemato bugbarra di ricerca"
+  "ReleaseNotes": "sistemate finestre funzione mail"
 }
