@@ -1,7 +1,7 @@
 {
-  "Version": "1.0.12",
-  "DownloadUrl": "https://github.com/Fonsa96/Marpatech_8_Update/raw/main/Marpatech_8_v1.0.12.zip",
-  "ZipFileName": "Marpatech_8_v1.0.12.zip",
+  "Version": "1.0.13",
+  "DownloadUrl": "https://github.com/Fonsa96/Marpatech_8_Update/raw/main/Marpatech_8_v1.0.13.zip",
+  "ZipFileName": "Marpatech_8_v1.0.13.zip",
   "Mandatory": false,
-  "ReleaseNotes": "aggiunto bottone rilascio multiplo a funzione mail"
+  "ReleaseNotes": "aggiunta ricerca in funzione mail"
 }
