@@ -1,7 +1,7 @@
 {
-  "Version": "1.0.5",
-  "DownloadUrl": "https://github.com/Fonsa96/Marpatech_8_Update/raw/main/Marpatech_8_v1.0.5.zip",
-  "ZipFileName": "Marpatech_8_v1.0.5.zip",
+  "Version": "1.0.6",
+  "DownloadUrl": "https://github.com/Fonsa96/Marpatech_8_Update/raw/main/Marpatech_8_v1.0.6.zip",
+  "ZipFileName": "Marpatech_8_v1.0.6.zip",
   "Mandatory": false,
-  "ReleaseNotes": "CREATI SERVIZI MAIL E COLLEGATI AL TASTO INVIA. PRONTO PER BETA TEST SENZA L\u0027AGGIUNTA DI LINK"
+  "ReleaseNotes": "BETA2"
 }
