@@ -1,7 +1,7 @@
 {
-  "Version": "1.0.15",
-  "DownloadUrl": "https://github.com/Fonsa96/Marpatech_8_Update/raw/main/Marpatech_8_v1.0.15.zip",
-  "ZipFileName": "Marpatech_8_v1.0.15.zip",
+  "Version": "1.0.16",
+  "DownloadUrl": "https://github.com/Fonsa96/Marpatech_8_Update/raw/main/Marpatech_8_v1.0.16.zip",
+  "ZipFileName": "Marpatech_8_v1.0.16.zip",
   "Mandatory": false,
-  "ReleaseNotes": "sistemate finestre funzione mail"
+  "ReleaseNotes": "sistemato bug visualizzazione invio mail"
 }
