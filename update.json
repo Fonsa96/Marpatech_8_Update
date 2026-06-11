@@ -1,7 +1,7 @@
 {
-  "Version": "1.0.17",
-  "DownloadUrl": "https://github.com/Fonsa96/Marpatech_8_Update/raw/main/Marpatech_8_v1.0.17.zip",
-  "ZipFileName": "Marpatech_8_v1.0.17.zip",
+  "Version": "1.0.18",
+  "DownloadUrl": "https://github.com/Fonsa96/Marpatech_8_Update/raw/main/Marpatech_8_v1.0.18.zip",
+  "ZipFileName": "Marpatech_8_v1.0.18.zip",
   "Mandatory": false,
-  "ReleaseNotes": "Funzione Genera Word Manuali pronta per Betatest"
+  "ReleaseNotes": "sistemati bug e staccato completamente propiet\u00E0 e placeholder da hardcode"
 }
