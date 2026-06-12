@@ -1,7 +1,7 @@
 {
-  "Version": "1.0.19",
-  "DownloadUrl": "https://github.com/Fonsa96/Marpatech_8_Update/raw/main/Marpatech_8_v1.0.19.zip",
-  "ZipFileName": "Marpatech_8_v1.0.19.zip",
+  "Version": "1.0.20",
+  "DownloadUrl": "https://github.com/Fonsa96/Marpatech_8_Update/raw/main/Marpatech_8_v1.0.20.zip",
+  "ZipFileName": "Marpatech_8_v1.0.20.zip",
   "Mandatory": false,
-  "ReleaseNotes": "aggiunte dll a release e corretto bug"
+  "ReleaseNotes": "correzione bug sostituzione immagini e  sostituzione placeholder"
 }
