@@ -1,7 +1,7 @@
 {
-  "Version": "1.0.23",
-  "DownloadUrl": "https://github.com/Fonsa96/Marpatech_8_Update/raw/main/Marpatech_8_v1.0.23.zip",
-  "ZipFileName": "Marpatech_8_v1.0.23.zip",
+  "Version": "1.0.24",
+  "DownloadUrl": "https://github.com/Fonsa96/Marpatech_8_Update/raw/main/Marpatech_8_v1.0.24.zip",
+  "ZipFileName": "Marpatech_8_v1.0.24.zip",
   "Mandatory": false,
-  "ReleaseNotes": "Completata Funzione Genera Word Manuali, completata al di fuori del blocco traduzioni che con questa release sara in beta test"
+  "ReleaseNotes": "correzione bug funzione translate"
 }
