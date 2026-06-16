@@ -1,7 +1,7 @@
 {
-  "Version": "1.0.36",
-  "DownloadUrl": "https://github.com/Fonsa96/Marpatech_8_Update/raw/main/Marpatech_8_v1.0.36.zip",
-  "ZipFileName": "Marpatech_8_v1.0.36.zip",
+  "Version": "1.0.37",
+  "DownloadUrl": "https://github.com/Fonsa96/Marpatech_8_Update/raw/main/Marpatech_8_v1.0.37.zip",
+  "ZipFileName": "Marpatech_8_v1.0.37.zip",
   "Mandatory": false,
-  "ReleaseNotes": "prova 12\u002Bdebug"
+  "ReleaseNotes": "prova 13 \u002B debug"
 }
