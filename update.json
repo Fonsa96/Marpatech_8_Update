@@ -1,7 +1,7 @@
 {
-  "Version": "1.0.40",
-  "DownloadUrl": "https://github.com/Fonsa96/Marpatech_8_Update/raw/main/Marpatech_8_v1.0.40.zip",
-  "ZipFileName": "Marpatech_8_v1.0.40.zip",
+  "Version": "1.0.41",
+  "DownloadUrl": "https://github.com/Fonsa96/Marpatech_8_Update/raw/main/Marpatech_8_v1.0.41.zip",
+  "ZipFileName": "Marpatech_8_v1.0.41.zip",
   "Mandatory": false,
-  "ReleaseNotes": "migrata funzione mail"
+  "ReleaseNotes": "migrata funzione generaword e modificata acquisizione immagine "
 }
