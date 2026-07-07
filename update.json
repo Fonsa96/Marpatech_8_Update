@@ -1,7 +1,7 @@
 {
-  "Version": "1.0.42",
-  "DownloadUrl": "https://github.com/Fonsa96/Marpatech_8_Update/raw/main/Marpatech_8_v1.0.42.zip",
-  "ZipFileName": "Marpatech_8_v1.0.42.zip",
+  "Version": "1.0.43",
+  "DownloadUrl": "https://github.com/Fonsa96/Marpatech_8_Update/raw/main/Marpatech_8_v1.0.43.zip",
+  "ZipFileName": "Marpatech_8_v1.0.43.zip",
   "Mandatory": false,
-  "ReleaseNotes": "corretto bug immagine"
+  "ReleaseNotes": "migrate tutte le finestre ad un unico servizio e migrati anche altri servizi,iniziamo con i test."
 }
