@@ -1,7 +1,7 @@
 {
-  "Version": "1.0.45",
-  "DownloadUrl": "https://github.com/Fonsa96/Marpatech_8_Update/raw/main/Marpatech_8_v1.0.45.zip",
-  "ZipFileName": "Marpatech_8_v1.0.45.zip",
+  "Version": "1.0.46",
+  "DownloadUrl": "https://github.com/Fonsa96/Marpatech_8_Update/raw/main/Marpatech_8_v1.0.46.zip",
+  "ZipFileName": "Marpatech_8_v1.0.46.zip",
   "Mandatory": false,
-  "ReleaseNotes": "fix bug traduzioni genera word manuali"
+  "ReleaseNotes": "fix bug salvataggio traduzionii"
 }
