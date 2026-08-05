@@ -1,7 +1,7 @@
 {
-  "Version": "1.0.48",
-  "DownloadUrl": "https://github.com/Fonsa96/Marpatech_8_Update/raw/main/Marpatech_8_v1.0.48.zip",
-  "ZipFileName": "Marpatech_8_v1.0.48.zip",
+  "Version": "1.0.49",
+  "DownloadUrl": "https://github.com/Fonsa96/Marpatech_8_Update/raw/main/Marpatech_8_v1.0.49.zip",
+  "ZipFileName": "Marpatech_8_v1.0.49.zip",
   "Mandatory": false,
-  "ReleaseNotes": "Stampa Cartelline completamento processo word da beta testare"
+  "ReleaseNotes": "completata funzione stampatemplate word cartelline."
 }
