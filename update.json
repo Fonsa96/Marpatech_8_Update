@@ -1,7 +1,7 @@
 {
-  "Version": "1.0.51",
-  "DownloadUrl": "https://github.com/Fonsa96/Marpatech_8_Update/raw/main/Marpatech_8_v1.0.51.zip",
-  "ZipFileName": "Marpatech_8_v1.0.51.zip",
+  "Version": "1.0.52",
+  "DownloadUrl": "https://github.com/Fonsa96/Marpatech_8_Update/raw/main/Marpatech_8_v1.0.52.zip",
+  "ZipFileName": "Marpatech_8_v1.0.52.zip",
   "Mandatory": false,
-  "ReleaseNotes": "Completata sezione regole di progettazione"
+  "ReleaseNotes": "Completata gestione ribbon delle funzioni ad oggi"
 }
