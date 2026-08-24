@@ -1,7 +1,7 @@
 {
-  "Version": "1.0.53",
-  "DownloadUrl": "https://github.com/Fonsa96/Marpatech_8_Update/raw/main/Marpatech_8_v1.0.53.zip",
-  "ZipFileName": "Marpatech_8_v1.0.53.zip",
+  "Version": "1.0.54",
+  "DownloadUrl": "https://github.com/Fonsa96/Marpatech_8_Update/raw/main/Marpatech_8_v1.0.54.zip",
+  "ZipFileName": "Marpatech_8_v1.0.54.zip",
   "Mandatory": false,
-  "ReleaseNotes": "Aggiunte icone per le funzioni Ribbon e creati pulsanti definitivi viste ribbon. inoltre sistemato bug in regole di progettazione"
+  "ReleaseNotes": "corretti alcuni bug di regole di progettazione, e completata logica di tutto stampa cartelline"
 }
