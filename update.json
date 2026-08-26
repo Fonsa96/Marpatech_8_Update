@@ -1,7 +1,7 @@
 {
-  "Version": "1.0.57",
-  "DownloadUrl": "https://github.com/Fonsa96/Marpatech_8_Update/raw/main/Marpatech_8_v1.0.57.zip",
-  "ZipFileName": "Marpatech_8_v1.0.57.zip",
+  "Version": "1.0.58",
+  "DownloadUrl": "https://github.com/Fonsa96/Marpatech_8_Update/raw/main/Marpatech_8_v1.0.58.zip",
+  "ZipFileName": "Marpatech_8_v1.0.58.zip",
   "Mandatory": false,
-  "ReleaseNotes": "corretta conversione html in regole di progettazione"
+  "ReleaseNotes": "aggiunta funzione di esportazione in cartelle di regole di progettazione"
 }
