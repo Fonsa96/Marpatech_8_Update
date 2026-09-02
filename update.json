@@ -1,7 +1,7 @@
 {
-  "Version": "1.0.60",
-  "DownloadUrl": "https://github.com/Fonsa96/Marpatech_8_Update/raw/main/Marpatech_8_v1.0.60.zip",
-  "ZipFileName": "Marpatech_8_v1.0.60.zip",
+  "Version": "1.0.61",
+  "DownloadUrl": "https://github.com/Fonsa96/Marpatech_8_Update/raw/main/Marpatech_8_v1.0.61.zip",
+  "ZipFileName": "Marpatech_8_v1.0.61.zip",
   "Mandatory": false,
-  "ReleaseNotes": "Sistemate Stampe metodo 2 (da testare) di StampaCartelline, create UI Genera Verbali."
+  "ReleaseNotes": "Completate UI Geenera Verbali e Servizi di test per modalit\u00E0 L."
 }
