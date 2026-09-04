@@ -1,7 +1,7 @@
 {
-  "Version": "1.0.62",
-  "DownloadUrl": "https://github.com/Fonsa96/Marpatech_8_Update/raw/main/Marpatech_8_v1.0.62.zip",
-  "ZipFileName": "Marpatech_8_v1.0.62.zip",
+  "Version": "1.0.63",
+  "DownloadUrl": "https://github.com/Fonsa96/Marpatech_8_Update/raw/main/Marpatech_8_v1.0.63.zip",
+  "ZipFileName": "Marpatech_8_v1.0.63.zip",
   "Mandatory": false,
-  "ReleaseNotes": "Completata funzione Genera Verbali pronta per i primi TEST"
+  "ReleaseNotes": "Corretto Bug Stampa Cartelline"
 }
