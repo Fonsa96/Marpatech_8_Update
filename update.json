@@ -1,7 +1,7 @@
 {
-  "Version": "1.0.65",
-  "DownloadUrl": "https://github.com/Fonsa96/Marpatech_8_Update/raw/main/Marpatech_8_v1.0.65.zip",
-  "ZipFileName": "Marpatech_8_v1.0.65.zip",
+  "Version": "1.0.66",
+  "DownloadUrl": "https://github.com/Fonsa96/Marpatech_8_Update/raw/main/Marpatech_8_v1.0.66.zip",
+  "ZipFileName": "Marpatech_8_v1.0.66.zip",
   "Mandatory": false,
-  "ReleaseNotes": "Corretto Bug nella finestra modeless di scrittura propriet\u00E0 in stampa cartelline"
+  "ReleaseNotes": "Corretto bug tab in genera verbali"
 }
