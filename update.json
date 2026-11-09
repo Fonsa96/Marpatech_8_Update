@@ -1,7 +1,7 @@
 {
-  "Version": "1.0.70",
-  "DownloadUrl": "https://github.com/Fonsa96/Marpatech_8_Update/raw/main/Marpatech_8_v1.0.70.zip",
-  "ZipFileName": "Marpatech_8_v1.0.70.zip",
+  "Version": "1.0.71",
+  "DownloadUrl": "https://github.com/Fonsa96/Marpatech_8_Update/raw/main/Marpatech_8_v1.0.71.zip",
+  "ZipFileName": "Marpatech_8_v1.0.71.zip",
   "Mandatory": false,
-  "ReleaseNotes": "Corretto Bug in Genera Verbali e resa funzionante Genera Varianti"
+  "ReleaseNotes": "Completata la funzione Genera Varianti"
 }
