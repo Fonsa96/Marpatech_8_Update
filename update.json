@@ -1,7 +1,7 @@
 {
-  "Version": "1.0.74",
-  "DownloadUrl": "https://github.com/Fonsa96/Marpatech_8_Update/raw/main/Marpatech_8_v1.0.74.zip",
-  "ZipFileName": "Marpatech_8_v1.0.74.zip",
+  "Version": "1.0.75",
+  "DownloadUrl": "https://github.com/Fonsa96/Marpatech_8_Update/raw/main/Marpatech_8_v1.0.75.zip",
+  "ZipFileName": "Marpatech_8_v1.0.75.zip",
   "Mandatory": false,
-  "ReleaseNotes": "Corretto Bug Sostituzione Immagini in Genera Word Manuali"
+  "ReleaseNotes": "Corretto Salvataggio Propriet\u00E0 Modlait\u00E0STL in Genera Verbali"
 }
