@@ -1,7 +1,7 @@
 {
-  "Version": "1.0.75",
-  "DownloadUrl": "https://github.com/Fonsa96/Marpatech_8_Update/raw/main/Marpatech_8_v1.0.75.zip",
-  "ZipFileName": "Marpatech_8_v1.0.75.zip",
+  "Version": "1.0.76",
+  "DownloadUrl": "https://github.com/Fonsa96/Marpatech_8_Update/raw/main/Marpatech_8_v1.0.76.zip",
+  "ZipFileName": "Marpatech_8_v1.0.76.zip",
   "Mandatory": false,
-  "ReleaseNotes": "Corretto Salvataggio Propriet\u00E0 Modlait\u00E0STL in Genera Verbali"
+  "ReleaseNotes": "Corretti BUG a Stampa cartelline, apertura senza popup e corretta scrittura iproperties"
 }
